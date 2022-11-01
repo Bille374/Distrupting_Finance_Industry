@@ -1,11 +1,18 @@
 # The Solution For Financial Industry System:
-## Building Ethereum Compatible blockchain to Implement a business logic
+## Building Ethereum Compatible blockchain to Implement a simple business logic
 
 As ay Smart Contract Developer My task is to Create speed to Automatise System Execution Of Transaction by building  a Blockchain to connect with financial institutions
 
 Smart Contracts can read and write data in Blockchain, they are Automatic, fast, direct, cheap and Transparent wihout any human errors.
 
 In our case of study is creation of Joint Bank Accounts privided two addresses to send and withdraw funds by writing a smart contract use Ether to provide the feature of joint saving accounts.
+
+## Instructions:
+
+1. Creating a joint savings account
+2. Compile & deploy contract 
+3. Intetact with Deployed Smart Contract
+
 
 ## Implementation By Using JVM
 
