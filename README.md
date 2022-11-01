@@ -6,7 +6,7 @@ Smart Contracts can read and write data in Blockchain, they are Automatic, fast,
 
 In our case of study is creation of Joint Bank Accounts privided two addresses to send and withdraw funds by writing a smart contract use Ether to provide the feature of joint saving accounts.
 
-# Implementation
+# Implementation By Using JVM
 
 Smart Contract Compilation: The solidity source code .sol file is executed by solidity compiler and the compiler returns the EVM bytecode that is deployed to main or testnet and the contract abstract Binary Interface
 
@@ -22,4 +22,10 @@ At the end creating a callback function called  external payable funds the accou
  
 ![image](https://user-images.githubusercontent.com/69637182/199300130-d676ae30-4680-48cd-b44f-661430eac6d8.png)
 
+# Conclusion 
+
+Smart Contract is the future of our broken finantial system control by one centralized bank keep making same mistakes over and over,
+In contract Simple business idea gets translated to code can fix the issue we have.
+
+![image](https://user-images.githubusercontent.com/69637182/199304715-76f7361a-dbf3-44ca-94b7-9a5d77f1ff72.png)
 
