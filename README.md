@@ -8,7 +8,7 @@ In our case of study is creation of Joint Bank Accounts privided two addresses t
 
 # Implementation By Using JVM
 
-Smart Contract Compilation: The solidity source code .sol file is executed by solidity compiler and the compiler returns the EVM bytecode that is deployed to main or testnet and the contract abstract Binary Interface
+Smart Contract Compilation: The solidity source code .sol file is executed by solidity compiler and the compiler spits out the EVM bytecode that is deployed to main or testnet and the contract abstract Binary Interface
 
 ![image](https://user-images.githubusercontent.com/69637182/199297393-5991cad1-2857-4cb2-9465-4a99d2b56100.png)
 
