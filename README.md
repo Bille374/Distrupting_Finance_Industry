@@ -14,7 +14,7 @@ In our case of study is creation of Joint Bank Accounts provided two addresses t
 3. Intetact with Deployed Smart Contract
 
 
-## Implementation By Using JVM
+## Implementation By Using JS VM
 
 Smart Contract Compilation: The solidity source code .sol file is executed by solidity compiler and the compiler spits out the EVM bytecode that is deployed to main or testnet and the contract abstract Binary Interface
 
