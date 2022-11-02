@@ -32,7 +32,7 @@ At the end creating a callback function called  external payable funds the accou
 
 ## Conclusion 
 
-Smart Contracts are the future of our finantial system control by one  entity mishandling the money management,
+Smart Contracts are the future of finantial system control by one  entity mishandling the money management,
 In contrast Simple business idea gets translated to code can fix the issue we have.
 
 ![image](https://user-images.githubusercontent.com/69637182/199304923-90415900-2525-4641-a792-7c2559a2bd91.png)
