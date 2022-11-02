@@ -5,7 +5,7 @@ As ay Smart Contract Developer My task is to Create speed to Automatise System E
 
 Smart Contracts can read and write data in Blockchain, they are Automatic, fast, direct, cheap and Transparent wihout any human errors.
 
-In our case of study is creation of Joint Bank Accounts privided two addresses to send and withdraw funds by writing a smart contract use Ether to provide the feature of joint saving accounts.
+In our case of study is creation of Joint Bank Accounts provided two addresses to send and withdraw funds by writing a smart contract use Ether to provide the feature of joint saving accounts.
 
 ## Instructions:
 
